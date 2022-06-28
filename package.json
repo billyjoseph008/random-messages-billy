@@ -15,10 +15,19 @@
   "author": "Billy Rojas",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
   "preferGlobal": true,
   "dependencies": {
     "user": "^0.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billyjoseph008/random-messages-billy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/billyjoseph008/random-messages-billy/issues"
+  },
+  "homepage": "https://github.com/billyjoseph008/random-messages-billy#readme"
 }
